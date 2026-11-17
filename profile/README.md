@@ -6,11 +6,11 @@ Bienvenue chez **Kurkkumopo**, l'équipe la plus véloce de la **Nuit de l'Info 
 
 ## 👥 L'équipe
 
-| Membre | GitHub | Rôle (officieux) |
+| Membre | GitHub | Rôle |
 | --- | --- | --- |
-| **Axel Frache** | [@axelfrache](https://github.com/axelfrache) | Fondateur de l'orga, `git push --force` en pleine confiance |
-| **Evan Paillard** | [@Evan-Paillard](https://github.com/Evan-Paillard) | Transforme le café en commits |
-| **Joris Vilardell** | [@jorisvilardell](https://github.com/jorisvilardell) | Garde son sang-froid, même à 4h du matin |
+| **Axel Frache** | [@axelfrache](https://github.com/axelfrache) | Créateur de l'orga, `git push --force` en pleine confiance |
+| **Evan Paillard** | [@Evan-Paillard](https://github.com/Evan-Paillard) | High cortisol : traite n'importe quelle issue |
+| **Joris Vilardell** | [@jorisvilardell](https://github.com/jorisvilardell) | Transforme la caféine en commit |
 | **Damien Mathieu** | [@damien-mathieu1](https://github.com/damien-mathieu1) | Alias *Gabano*, le tigre du merge |
 
 ---
