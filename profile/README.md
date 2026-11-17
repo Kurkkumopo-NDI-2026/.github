@@ -4,6 +4,8 @@
 
 Bienvenue chez **Kurkkumopo**, l'équipe la plus véloce de la **Nuit de l'Info 2026**.
 
+**Tous nos projets de la nuit : [kurkkumopo.info](https://kurkkumopo.info)**
+
 ## 👥 L'équipe
 
 | Membre | GitHub | Rôle |
